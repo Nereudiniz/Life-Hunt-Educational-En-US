@@ -1,0 +1,19 @@
+LIFE HUNT — SITE v2 LEVE
+
+Esta versão foi otimizada para GitHub Pages e para facilitar o download/upload.
+As 70 cartas foram convertidas para WebP com 1200 px de largura e qualidade alta.
+
+COMO ATUALIZAR NO GITHUB
+1. Extraia este ZIP no computador.
+2. Abra o MESMO repositório do GitHub Pages.
+3. Add file > Upload files.
+4. Envie TODOS os arquivos extraídos.
+5. Faça Commit changes.
+6. Aguarde o GitHub Pages atualizar.
+7. Use o MESMO link e o MESMO QR Code.
+
+IMPORTANTE
+- Não envie o ZIP diretamente: extraia antes.
+- O index.html desta versão usa as cartas .webp.
+- Os arquivos .png antigos podem continuar no repositório sem atrapalhar,
+  mas depois você pode apagá-los para deixar o projeto mais limpo.
